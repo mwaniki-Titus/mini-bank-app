@@ -56,7 +56,7 @@ table {
 }
 
 thead {
-  background-color: #007bff;
+  background-color: rgb(26, 82, 134);
   color: #fff;
 }
 
@@ -67,11 +67,11 @@ th, td {
 }
 
 tr:nth-child(even) {
-  background-color: #f2f2f2;
+  background-color: rgb(177, 169, 169);
 }
 
 tr:hover {
-  background-color: #e6e6e6;
+  background-color: rgb(192, 152, 91);
 }
 
 .no-transactions {
