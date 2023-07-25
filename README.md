@@ -14,7 +14,7 @@ npx json-server --watch --port 8001
 Contributions are welcome! 
 
 ## license
-
+mwaniki-titus@gmail.com
 
 ## Acknowledgments
 .This project was created for educational purpose to practice React development. 
